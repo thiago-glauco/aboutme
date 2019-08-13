@@ -13,8 +13,8 @@ header h1, header h2, header ul {
 nav ul li {
   list-style: none;
   display: inline;
-  padding: 10px;
-  margin-left: 10px;
+  padding: 5px;
+  margin-left: 5px;
 }
 
 nav ul li:hover {
