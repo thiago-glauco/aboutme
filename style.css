@@ -14,7 +14,8 @@ nav ul li {
   list-style: none;
   display: inline;
   padding: 5px;
-  margin-left: 5px;
+  margin: 15px;
+  font-size: 0.8rem;
 }
 
 nav ul li:hover {
